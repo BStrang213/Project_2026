@@ -1,0 +1,17 @@
+body {
+    background-color: #7DF9FF;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #941717;
+    font-size: 60px;
+    max-width:max-content;
+    text-align: left;
+}
+
+form {
+    font-size: 30px;
+}
