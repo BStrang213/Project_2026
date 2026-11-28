@@ -1,6 +1,26 @@
 "use strict"
 import { Questions } from "./zombies_lib";
 
+function startGame() {
+
+}
+
+function addToQuestionsAsked() {
+
+}
+
+function getQuestion() {
+
+}
+
+function displayQuestion() {
+
+}
+
+function finishGame() {
+    
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     const question = document.querySelector("#question");
     const ans1 = document.querySelector("#ans1");
@@ -11,5 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const congrats = document.querySelector("#congrats");
     const ansQs = document.querySelector("#allQuestions");
     const playAgain = document.querySelector("#playAgain");
+
+
 
 });
